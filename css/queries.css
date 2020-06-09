@@ -20,4 +20,7 @@
     .temp{
         text-align: center;
     }
+    .bg-screen{
+        background-color: #999 !important;
+    }
 }
